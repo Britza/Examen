@@ -34,7 +34,7 @@ public class IniciarUser {
         return instance;
     }
 
-    public static void setInstance(IniciarUser instance) {
+    public static void setInstance(IniciarUser  instance) {
         IniciarUser.instance = instance;
     }
 
